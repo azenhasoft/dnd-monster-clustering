@@ -1,0 +1,249 @@
+,index,Creature,CR,Type,Size,AC,hp,Speed,Alignment,Legendary,STR,DEX,CON,INT,WIS,CHA,STR SAVE,DEX SAVE,CON SAVE,INT SAVE,WIS SAVE,CHA SAVE
+0,2,Abjurer legacy,9,humanoid (any race),Medium,12,84,-,any alignment,-,9,14,14,18,12,11,-,-,-,8,5,-
+1,21,Adult Kruthik legacy,2,monstrosity,Medium,18,39,-,unaligned,-,15,16,15,7,12,8,-,-,-,-,-,-
+2,24,Adult Oblex legacy,5,ooze,Medium,14,75,-,lawful evil,-,8,19,16,19,12,15,-,-,-,7,-,5
+3,32,Air Elemental Myrmidon legacy,7,elemental,Medium,18,117,fly,neutral,-,18,14,14,9,10,10,-,-,-,-,-,-
+4,34,Alhoon legacy,10,undead,Medium,15,120,-,any evil alignment,-,11,12,16,19,17,17,-,-,7,8,7,7
+5,36,Alkilith legacy,11,fiend (demon),Medium,17,157,-,chaotic evil,-,12,19,22,6,11,7,-,8,10,-,-,-
+6,38,Allip legacy,5,undead,Medium,13,40,fly,neutral evil,-,6,17,10,17,15,16,-,-,-,6,5,-
+7,42,Amnizu legacy,18,fiend (devil),Medium,21,202,fly,lawful evil,-,11,13,16,20,12,18,-,7,9,-,7,10
+8,67,Annis Hag legacy,6,fey,Large,17,75,-,chaotic evil,-,21,12,14,13,14,15,-,-,5,-,-,-
+9,70,Apprentice Wizard legacy,1/4,humanoid (any race),Medium,10,9,-,any alignment,-,10,10,10,14,10,11,-,-,-,-,-,-
+10,73,Archdruid legacy,12,humanoid (any race),Medium,16,132,-,any alignment,-,10,14,12,12,20,11,-,-,-,5,9,-
+11,75,Archer legacy,3,humanoid (any race),Medium,16,75,-,any alignment,-,11,18,16,11,13,10,-,-,-,-,-,-
+12,78,Armanite legacy,7,fiend (demon),Large,16,84,-,chaotic evil,-,21,18,21,8,12,13,-,-,-,-,-,-
+13,82,Astral Dreadnought legacy,21,monstrosity (titan),Gargantuan,20,297,fly,unaligned,Legendary,28,7,25,5,14,18,-,5,-,-,9,-
+14,84,Aurochs legacy,2,beast,Large,11,38,-,unaligned,-,20,10,19,2,12,5,-,-,-,-,-,-
+15,86,Autumn Eladrin legacy,10,fey (elf),Medium,19,127,-,chaotic neutral,-,12,16,16,14,17,18,-,-,-,-,-,-
+16,93,Babau legacy,4,fiend (demon),Medium,16,82,-,chaotic evil,-,19,16,16,11,12,13,-,-,-,-,-,-
+17,97,Bael legacy,19,fiend (devil),Large,18,189,-,lawful evil,Legendary,24,17,20,21,24,24,-,9,11,11,-,13
+18,99,Balhannoth legacy,11,aberration,Large,17,114,-,chaotic evil,Legendary,17,8,18,6,15,8,-,-,8,-,-,-
+19,102,Banderhobb legacy,5,monstrosity,Large,15,84,-,neutral evil,-,20,12,20,11,14,8,-,-,-,-,-,-
+20,107,Baphomet legacy,23,fiend (demon),Huge,22,275,-,chaotic evil,Legendary,30,14,26,18,24,16,-,9,15,-,14,-
+21,110,Bard legacy,2,humanoid (any race),Medium,15,44,-,any alignment,-,11,14,12,10,13,14,-,4,-,-,3,-
+22,112,Barghest legacy,4,fiend (shapechanger),Large,17,90,-,neutral evil,-,19,15,14,13,12,14,-,-,-,-,-,-
+23,125,Berbalang legacy,2,aberration,Medium,14,38,fly,neutral evil,-,9,16,9,17,11,10,-,5,-,5,-,-
+24,129,Bheur Hag legacy,7,fey,Medium,17,91,-,chaotic evil,-,13,16,14,12,13,16,-,-,-,-,4,-
+25,131,Black Abishai legacy,7,fiend (devil),Medium,15,58,fly,lawful evil,-,14,17,14,13,16,11,-,6,-,-,6,-
+26,137,Blackguard legacy,8,humanoid (any race),Medium,18,153,-,any non-good alignment,-,18,11,18,11,14,15,-,-,-,-,5,5
+27,141,Blue Abishai legacy,17,fiend (devil),Medium,19,195,fly,lawful evil,-,15,14,17,22,23,18,-,-,-,12,12,-
+28,146,Bodak legacy,6,undead,Medium,15,58,-,chaotic evil,-,15,16,15,7,12,12,-,-,-,-,-,-
+29,148,Boggle legacy,1/8,fey,Small,14,18,-,chaotic neutral,-,8,18,13,6,12,7,-,-,-,-,-,-
+30,152,Boneclaw legacy,12,undead,Large,16,127,-,chaotic evil,-,19,16,15,13,15,9,-,7,6,-,6,-
+31,161,Bulezau legacy,3,fiend (demon),Medium,14,52,-,chaotic evil,-,15,14,17,8,9,6,-,-,-,-,-,-
+32,165,Cadaver Collector legacy,14,construct,Large,17,189,-,lawful evil,-,21,14,20,5,11,8,-,-,-,-,-,-
+33,169,Canoloth legacy,8,fiend (yugoloth),Medium,16,120,-,neutral evil,-,18,10,17,5,17,12,-,-,-,-,-,-
+34,173,Catoblepas legacy,5,monstrosity,Large,14,84,-,unaligned,-,19,12,21,3,14,8,-,-,-,-,-,-
+35,175,Cave Fisher legacy,3,monstrosity,Medium,16,58,-,unaligned,-,16,13,14,3,10,3,-,-,-,-,-,-
+36,180,Champion legacy,9,humanoid (any race),Medium,18,143,-,any alignment,-,20,15,14,10,14,12,9,-,6,-,-,-
+37,184,Chitine legacy,1/2,monstrosity,Small,14,18,-,chaotic evil,-,10,14,12,10,10,7,-,-,-,-,-,-
+38,186,Choker legacy,1,aberration,Small,16,13,-,chaotic evil,-,16,14,13,4,12,7,-,-,-,-,-,-
+39,188,Choldrith legacy,3,monstrosity,Medium,15,66,-,chaotic evil,-,12,16,12,11,14,10,-,-,-,-,-,-
+40,194,Clockwork Iron Cobra legacy,4,construct,Medium,13,45,-,unaligned,-,12,16,14,3,10,1,-,-,-,-,-,-
+41,197,Cloud Giant Smiling One legacy,11,giant (cloud giant),Huge,15,262,-,chaotic neutral,-,26,12,22,15,16,17,-,-,10,6,-,7
+42,200,Conjurer legacy,6,humanoid (any race),Medium,12,40,-,any alignment,-,9,14,11,17,12,11,-,-,-,6,4,-
+43,206,Corpse Flower legacy,8,plant,Large,12,127,-,chaotic evil,-,14,14,16,7,15,3,-,-,-,-,-,-
+44,210,Cranium Rat legacy,0,beast,Tiny,12,2,-,lawful evil,-,2,14,10,4,11,8,-,-,-,-,-,-
+45,221,Darkling legacy,1/2,fey,Small,14,13,-,chaotic neutral,-,9,16,12,10,12,10,-,-,-,-,-,-
+46,223,Darkling Elder legacy,2,fey,Medium,15,27,-,chaotic neutral,-,13,17,12,10,14,13,-,-,-,-,-,-
+47,227,Death Kiss legacy,10,aberration,Large,16,161,fly,neutral evil,-,18,14,18,10,12,10,-,-,8,-,5,-
+48,233,Deathlock legacy,4,undead,Medium,12,36,-,neutral evil,-,11,15,10,14,12,16,-,-,-,4,-,5
+49,235,Deathlock Mastermind legacy,8,undead,Medium,13,110,-,neutral evil,-,11,16,12,15,12,17,-,-,-,5,-,6
+50,237,Deathlock Wight legacy,3,undead,Medium,12,37,-,neutral evil,-,11,14,16,12,14,16,-,-,-,-,4,-
+51,241,Deep Rothé legacy,1/4,beast,Medium,10,13,-,unaligned,-,18,10,14,2,10,4,-,-,-,-,-,-
+52,243,Deep Scion legacy,3,humanoid (shapechanger),Medium,11,67,swim,neutral evil,-,18,13,16,10,12,14,-,-,-,-,3,4
+53,247,Demogorgon legacy,26,fiend (demon),Huge,22,406,swim,chaotic evil,Legendary,29,14,26,20,17,25,-,10,16,-,11,15
+54,249,Derro legacy,1/4,humanoid (derro),Small,13,13,-,chaotic evil,-,10,14,12,11,5,9,-,-,-,-,-,-
+55,251,Derro Savant legacy,3,humanoid (derro),Small,13,36,-,chaotic evil,-,9,14,12,11,5,14,-,-,-,-,-,-
+56,255,Devourer legacy,13,fiend,Large,16,178,-,chaotic evil,-,20,12,20,13,10,16,-,-,-,-,-,-
+57,257,Dhergoloth legacy,7,fiend (yugoloth),Medium,15,119,-,neutral evil,-,17,10,19,7,10,9,6,-,-,-,-,-
+58,259,Dire Troll legacy,13,giant,Huge,15,172,-,chaotic evil,-,22,15,21,9,11,5,-,-,-,-,5,2
+59,262,Diviner legacy,8,humanoid (any race),Medium,12,67,-,any alignment,-,9,14,11,18,12,11,-,-,-,7,4,-
+60,266,Dolphin legacy,1/8,beast,Medium,12,11,swim,unaligned,-,14,13,13,6,12,7,-,-,-,-,-,-
+61,277,Draegloth legacy,7,fiend (demon),Large,15,123,-,chaotic evil,-,20,15,18,13,11,11,-,-,-,-,-,-
+62,292,Drow Arachnomancer legacy,13,humanoid (elf),Medium,15,162,-,chaotic evil,-,11,17,14,19,14,16,-,-,7,9,-,8
+63,295,Drow Favored Consort legacy,18,humanoid (elf),Medium,15,225,-,neutral evil,-,15,20,16,18,15,18,-,11,9,-,-,10
+64,297,Drow House Captain legacy,9,humanoid (elf),Medium,16,162,-,neutral evil,-,14,19,15,12,14,13,-,8,6,-,6,-
+65,299,Drow Inquisitor legacy,14,humanoid (elf),Medium,16,143,-,neutral evil,-,11,15,14,16,21,20,-,-,7,-,10,10
+66,302,Drow Matron Mother legacy,20,humanoid (elf),Medium,17,262,-,neutral evil,Legendary,12,18,16,17,21,22,-,-,9,-,11,12
+67,305,Drow Shadowblade legacy,11,humanoid (elf),Medium,17,150,-,neutral evil,-,14,21,16,12,14,13,-,9,7,-,6,-
+68,310,Duergar Despot legacy,12,humanoid (dwarf),Medium,21,119,-,lawful evil,-,20,5,19,15,14,13,-,-,8,-,6,-
+69,312,Duergar Kavalrachni legacy,2,humanoid (dwarf),Medium,16,26,-,lawful evil,-,14,11,14,11,10,9,-,-,-,-,-,-
+70,314,Duergar Mind Master legacy,2,humanoid (dwarf),Medium,14,39,-,lawful evil,-,11,17,14,15,10,12,-,-,-,-,2,-
+71,316,Duergar Soulblade legacy,1,humanoid (dwarf),Medium,14,18,-,lawful evil,-,11,16,10,11,10,12,-,-,-,-,-,-
+72,318,Duergar Stone Guard legacy,2,humanoid (dwarf),Medium,18,39,-,lawful evil,-,18,11,14,11,10,9,-,-,-,-,-,-
+73,320,Duergar Warlord legacy,6,humanoid (dwarf),Medium,20,75,-,lawful evil,-,18,11,17,12,12,14,-,-,-,-,-,-
+74,322,Duergar Xarrorn legacy,2,humanoid (dwarf),Medium,18,26,-,lawful evil,-,16,11,14,11,10,9,-,-,-,-,-,-
+75,326,Dybbuk legacy,4,fiend (demon),Medium,14,37,fly,chaotic evil,-,6,19,16,16,15,14,-,-,-,-,-,-
+76,330,Earth Elemental Myrmidon legacy,7,elemental,Medium,18,127,-,neutral,-,18,10,17,8,10,10,-,-,-,-,-,-
+77,333,Eidolon legacy,12,undead,Medium,9,63,fly,any alignment,-,7,8,9,14,19,16,-,-,-,-,8,-
+78,335,Elder Brain legacy,14,aberration,Large,10,210,swim,lawful evil,Legendary,15,10,20,21,19,24,-,-,-,10,9,12
+79,338,Elder Oblex legacy,10,ooze,Huge,16,115,-,lawful evil,-,15,16,21,22,13,18,-,-,-,10,-,8
+80,340,Elder Tempest legacy,23,elemental,Gargantuan,19,264,fly,neutral,Legendary,23,28,23,2,21,18,-,-,-,-,12,11
+81,346,Enchanter legacy,5,humanoid (any race),Medium,12,40,-,any alignment,-,9,14,11,17,12,11,-,-,-,6,4,-
+82,351,Evoker legacy,9,humanoid (any race),Medium,12,66,-,any alignment,-,9,14,12,17,12,11,-,-,-,7,5,-
+83,362,Female Steeder legacy,1,monstrosity,Large,14,30,-,unaligned,-,15,16,14,2,10,3,-,-,-,-,-,-
+84,367,Fire Elemental Myrmidon legacy,7,elemental,Medium,18,123,-,neutral,-,13,18,15,9,10,10,-,-,-,-,-,-
+85,370,Fire Giant Dreadnought legacy,14,giant (fire giant),Huge,21,187,-,lawful evil,-,27,9,23,8,10,11,-,4,11,-,-,5
+86,373,Firenewt Warlock of Imix legacy,1,humanoid (firenewt),Medium,10,33,-,neutral evil,-,13,11,12,9,11,14,-,-,-,-,-,-
+87,375,Firenewt Warrior legacy,1/2,humanoid (firenewt),Medium,16,22,-,neutral evil,-,10,13,12,7,11,8,-,-,-,-,-,-
+88,378,Flail Snail legacy,3,elemental,Large,16,52,-,unaligned,-,17,5,20,3,10,5,-,-,-,-,-,-
+89,382,Flind legacy,9,humanoid (gnoll),Medium,16,127,-,chaotic evil,-,20,10,19,11,13,12,-,-,8,-,5,-
+90,389,Fraz-Urb'luu legacy,23,fiend (demon),Large,18,337,fly,chaotic evil,Legendary,29,12,25,26,24,26,-,8,14,15,14,-
+91,392,Froghemoth legacy,10,monstrosity,Huge,14,184,swim,unaligned,-,23,13,20,2,12,5,-,-,9,-,5,-
+92,396,Frost Giant Everlasting One legacy,12,giant (frost giant),Huge,15,189,-,chaotic evil,-,25,9,24,9,10,12,11,-,11,-,4,-
+93,398,Frost Salamander legacy,9,elemental,Huge,17,168,-,unaligned,-,20,12,18,7,11,7,-,-,8,-,4,-
+94,403,Gauth legacy,6,aberration,Medium,15,67,fly,lawful evil,-,10,14,16,15,15,13,-,-,-,5,5,4
+95,405,Gazer legacy,1/2,aberration,Tiny,13,13,fly,neutral evil,-,3,17,14,3,10,7,-,-,-,-,2,-
+96,409,Geryon legacy,22,fiend (devil),Huge,19,300,fly,lawful evil,Legendary,29,17,22,19,16,23,-,10,13,-,10,13
+97,438,Giant Strider legacy,1,monstrosity,Large,14,22,-,neutral evil,-,18,13,14,4,12,6,-,-,-,-,-,-
+98,448,Giff legacy,3,humanoid,Medium,16,60,-,lawful neutral,-,18,14,17,11,12,12,-,-,-,-,-,-
+99,450,Girallon legacy,4,monstrosity,Large,13,59,-,unaligned,-,18,16,16,5,12,7,-,-,-,-,-,-
+100,452,Githyanki Gish legacy,10,humanoid (gith),Medium,17,123,-,lawful evil,-,17,15,14,16,15,16,-,-,6,7,6,-
+101,454,Githyanki Kith'rak legacy,12,humanoid (gith),Medium,18,180,-,lawful evil,-,18,16,17,16,15,17,-,-,7,7,6,-
+102,457,Githyanki Supreme Commander legacy,14,humanoid (gith),Medium,18,187,-,lawful evil,Legendary,19,17,18,16,16,18,-,-,9,8,8,-
+103,460,Githzerai Anarch legacy,16,humanoid (gith),Medium,20,144,fly,lawful neutral,Legendary,16,21,18,18,20,14,8,10,-,9,10,-
+104,462,Githzerai Enlightened legacy,10,humanoid (gith),Medium,18,112,-,lawful neutral,-,14,19,16,17,19,13,6,8,-,7,8,-
+105,467,Gloom Weaver legacy,9,humanoid (elf),Medium,14,104,-,neutral,-,11,18,14,15,12,18,-,8,6,-,-,-
+106,471,Gnoll Flesh Gnawer legacy,1,humanoid (gnoll),Medium,14,22,-,chaotic evil,-,12,14,12,8,10,8,-,4,-,-,-,-
+107,473,Gnoll Hunter legacy,1/2,humanoid (gnoll),Medium,13,22,-,chaotic evil,-,14,14,12,8,12,8,-,-,-,-,-,-
+108,476,Gnoll Witherling legacy,1/4,undead,Medium,12,11,-,chaotic evil,-,14,8,12,5,5,5,-,-,-,-,-,-
+109,485,Gray Render legacy,12,monstrosity,Large,19,189,-,chaotic neutral,-,19,13,20,3,6,8,8,-,9,-,-,-
+110,488,Graz'zt legacy,24,"fiend (demon, shapechanger)",Large,20,346,-,chaotic evil,Legendary,22,15,21,23,21,26,-,9,12,-,12,-
+111,490,Green Abishai legacy,15,fiend (devil),Medium,18,187,fly,lawful evil,-,12,17,16,17,12,19,-,-,-,8,-,9
+112,500,Grung legacy,1/4,humanoid (grung),Small,12,11,-,lawful evil,-,7,14,15,10,11,10,-,4,-,-,-,-
+113,502,Grung Elite Warrior legacy,2,humanoid (grung),Small,13,49,-,lawful evil,-,7,16,15,10,11,12,-,5,-,-,-,-
+114,504,Grung Wildling legacy,1,humanoid (grung),Small,13,27,-,lawful evil,-,7,16,15,10,15,11,-,5,-,-,-,-
+115,507,Guard Drake legacy,2,dragon,Medium,14,52,-,unaligned,-,16,11,16,4,10,7,-,-,-,-,-,-
+116,518,Hellfire Engine legacy,16,construct,Huge,18,216,-,lawful evil,-,20,16,24,2,10,1,-,8,-,-,5,0
+117,527,Hobgoblin Devastator legacy,4,humanoid (goblinoid),Medium,13,45,-,lawful evil,-,13,12,14,16,13,11,-,-,-,-,-,-
+118,529,Hobgoblin Iron Shadow legacy,2,humanoid (goblinoid),Medium,15,32,-,lawful evil,-,14,16,15,14,15,11,-,-,-,-,-,-
+119,537,Howler legacy,8,fiend,Large,16,90,-,chaotic evil,-,17,16,15,5,20,6,-,-,-,-,-,-
+120,541,Hutijin legacy,21,fiend (devil),Large,19,200,fly,lawful evil,Legendary,27,15,25,23,19,25,-,9,14,-,11,-
+121,544,Hydroloth legacy,9,fiend (yugoloth),Medium,15,135,swim,neutral evil,-,12,21,16,19,10,14,-,-,-,-,-,-
+122,549,Illusionist legacy,3,humanoid (any race),Medium,12,38,-,any alignment,-,9,14,13,16,11,12,-,-,-,5,2,-
+123,561,Juiblex legacy,23,fiend (demon),Huge,18,350,-,chaotic evil,Legendary,24,10,23,20,20,16,-,7,13,-,12,-
+124,564,Ki-rin legacy,12,celestial,Huge,20,152,fly,lawful good,Legendary,21,16,16,19,20,20,-,-,-,-,-,-
+125,570,Kobold Dragonshield legacy,1,humanoid (kobold),Small,15,44,-,lawful evil,-,12,15,14,8,9,10,-,-,-,-,-,-
+126,572,Kobold Inventor legacy,1/4,humanoid (kobold),Small,12,13,-,lawful evil,-,7,15,12,8,7,8,-,-,-,-,-,-
+127,574,Kobold Scale Sorcerer legacy,1,humanoid (kobold),Small,15,27,-,lawful evil,-,7,15,14,10,9,14,-,-,-,-,-,-
+128,576,Korred legacy,7,fey,Small,17,102,-,chaotic neutral,-,23,14,20,10,15,9,-,-,-,-,-,-
+129,579,Kraken Priest legacy,5,humanoid (any race),Medium,10,75,swim,any evil alignment,-,12,10,16,10,15,14,-,-,-,-,-,-
+130,581,Kruthik Hive Lord legacy,5,monstrosity,Large,20,102,-,unaligned,-,19,16,17,10,14,10,-,-,-,-,-,-
+131,589,Leucrotta legacy,3,monstrosity,Large,14,67,-,chaotic evil,-,18,14,15,9,12,6,-,-,-,-,-,-
+132,591,Leviathan legacy,20,elemental,Gargantuan,17,328,swim,neutral,Legendary,30,24,30,2,18,17,-,-,-,-,10,9
+133,604,Male Steeder legacy,1/4,monstrosity,Medium,12,13,-,unaligned,-,15,12,14,2,10,3,-,-,-,-,-,-
+134,612,Martial Arts Adept legacy,3,humanoid (any race),Medium,16,60,-,any alignment,-,11,17,13,11,16,10,-,-,-,-,-,-
+135,614,Marut legacy,25,construct (inevitable),Large,22,432,fly,lawful neutral,-,28,12,26,19,15,18,-,-,-,12,10,12
+136,618,Master Thief legacy,5,humanoid (any race),Medium,16,84,-,any alignment,-,11,18,14,11,11,12,-,7,-,3,-,-
+137,621,Maurezhi legacy,7,fiend (demon),Medium,15,88,-,chaotic evil,-,14,17,12,11,12,15,-,-,-,-,-,-
+138,623,Maw Demon legacy,1,fiend (demon),Medium,13,33,-,chaotic evil,-,14,8,13,5,8,5,-,-,-,-,-,-
+139,625,Meazel legacy,1,humanoid (meazel),Medium,13,35,-,neutral evil,-,8,17,9,14,13,10,-,-,-,-,-,-
+140,628,Meenlock legacy,2,fey,Small,15,31,-,neutral evil,-,7,15,12,11,10,8,-,-,-,-,-,-
+141,631,Merregon legacy,4,fiend (devil),Medium,16,45,-,lawful evil,-,18,14,17,6,12,8,-,-,-,-,-,-
+142,633,Merrenoloth legacy,3,fiend (yugoloth),Medium,13,40,swim,neutral evil,-,8,17,10,17,14,11,-,5,-,5,-,-
+143,642,Mindwitness legacy,5,aberration,Large,15,75,fly,lawful evil,-,10,14,14,15,15,10,-,-,-,5,5,-
+144,650,Moloch legacy,21,fiend (devil),Large,19,253,-,lawful evil,Legendary,26,19,22,21,18,23,-,11,13,-,11,13
+145,652,Molydeus legacy,21,fiend (demon),Huge,19,216,-,chaotic evil,Legendary,28,22,25,21,24,24,16,-,14,-,14,14
+146,656,Morkoth legacy,11,aberration,Medium,17,130,swim,chaotic evil,-,14,14,14,20,15,13,-,6,-,9,6,-
+147,659,Mouth of Grolantor legacy,6,giant (hill giant),Huge,14,105,-,chaotic evil,-,21,10,18,5,7,5,-,-,-,-,-,-
+148,670,Nabassu legacy,15,fiend (demon),Medium,18,190,fly,chaotic evil,-,22,14,21,14,15,17,11,7,-,-,-,-
+149,672,Nagpa legacy,17,humanoid (nagpa),Medium,19,187,-,neutral evil,-,9,15,12,23,18,21,-,-,-,12,10,11
+150,675,Narzugon legacy,13,fiend (devil),Medium,20,112,-,lawful evil,-,20,10,17,16,14,19,-,5,8,-,-,9
+151,676,Necromancer legacy,9,humanoid (any race),Medium,12,66,-,any alignment,-,9,14,12,17,12,11,-,-,-,7,5,-
+152,681,Neogi legacy,3,aberration,Small,15,33,-,lawful evil,-,6,16,14,13,12,15,-,-,-,-,-,-
+153,683,Neogi Hatchling legacy,1/8,aberration,Tiny,11,7,-,lawful evil,-,3,13,10,6,10,9,-,-,-,-,-,-
+154,685,Neogi Master legacy,4,aberration,Medium,15,71,-,lawful evil,-,6,16,14,16,12,18,-,-,-,-,3,-
+155,687,Neothelid legacy,13,aberration,Gargantuan,16,325,-,chaotic evil,-,27,7,21,3,16,12,-,-,-,1,8,6
+156,692,Nightwalker legacy,20,undead,Huge,14,297,fly,chaotic evil,-,22,19,24,6,9,8,-,-,13,-,-,-
+157,694,Nilbog legacy,1,humanoid (goblinoid),Small,13,7,-,chaotic evil,-,8,14,10,10,8,15,-,-,-,-,-,-
+158,698,Nupperibo legacy,1/2,fiend (devil),Medium,13,11,-,lawful evil,-,16,11,13,3,8,1,-,-,-,-,-,-
+159,701,Oblex Spawn legacy,1/4,ooze,Tiny,13,18,-,lawful evil,-,8,16,15,14,11,10,-,-,-,4,-,2
+160,706,Ogre Battering Ram legacy,4,giant,Large,14,59,-,chaotic evil,-,19,8,16,5,7,7,-,-,-,-,-,-
+161,708,Ogre Bolt Launcher legacy,2,giant,Large,13,59,-,chaotic evil,-,19,12,16,5,7,7,-,-,-,-,-,-
+162,710,Ogre Chain Brute legacy,3,giant,Large,11,59,-,chaotic evil,-,19,8,16,5,7,7,-,-,-,-,-,-
+163,712,Ogre Howdah legacy,2,giant,Large,13,59,-,chaotic evil,-,19,8,16,5,7,7,-,-,-,-,-,-
+164,716,Oinoloth legacy,12,fiend (yugoloth),Medium,17,126,-,neutral evil,-,19,17,18,17,16,19,-,-,8,-,7,-
+165,727,Orcus legacy,26,fiend (demon),Huge,17,405,fly,chaotic evil,Legendary,27,14,25,20,20,25,-,10,15,-,13,-
+166,730,Orthon legacy,10,fiend (devil),Large,17,105,-,lawful evil,-,22,16,21,15,15,16,-,7,9,-,6,-
+167,735,Ox legacy,1/4,beast,Large,10,15,-,unaligned,-,18,10,14,2,10,4,-,-,-,-,-,-
+168,742,Phoenix legacy,16,elemental,Gargantuan,18,175,fly,neutral,Legendary,19,26,25,2,21,18,-,-,-,-,10,9
+169,760,Quetzalcoatlus legacy,2,beast,Huge,13,30,fly,unaligned,-,15,13,13,2,10,5,-,-,-,-,-,-
+170,762,Quickling legacy,1,fey,Tiny,16,10,-,chaotic evil,-,4,23,13,10,12,7,-,-,-,-,-,-
+171,769,Red Abishai legacy,19,fiend (devil),Medium,22,255,fly,lawful evil,-,23,16,19,14,15,19,12,-,10,-,8,-
+172,773,Redcap legacy,3,fey,Small,13,45,-,chaotic evil,-,18,13,18,10,12,9,-,-,-,-,-,-
+173,778,Retriever legacy,14,construct,Large,19,210,-,lawful evil,-,22,16,20,3,11,4,-,8,10,-,5,-
+174,785,Rot Troll legacy,9,giant,Large,16,138,-,chaotic evil,-,18,13,22,5,8,4,-,-,-,-,-,-
+175,790,Rutterkin legacy,2,fiend (demon),Medium,12,37,-,chaotic evil,-,14,15,17,5,12,6,-,-,-,-,-,-
+176,805,Sea Spawn legacy,1,humanoid,Medium,11,32,swim,neutral evil,-,15,8,15,6,10,8,-,-,-,-,-,-
+177,811,Shadow Dancer legacy,7,humanoid (elf),Medium,15,71,-,neutral,-,12,16,13,11,12,12,-,6,-,-,-,4
+178,814,Shadow Mastiff legacy,2,monstrosity,Medium,12,33,-,neutral evil,-,16,14,13,5,12,5,-,-,-,-,-,-
+179,820,Shoosuva legacy,8,fiend (demon),Large,14,110,-,chaotic evil,-,18,13,17,7,14,9,-,4,6,-,5,-
+180,823,Sibriex legacy,18,fiend (demon),Huge,19,150,fly,chaotic evil,Legendary,10,3,23,25,24,25,-,-,-,13,-,13
+181,827,Skulk legacy,1/2,humanoid,Medium,14,18,-,chaotic neutral,-,6,19,10,10,7,1,-,-,2,-,-,-
+182,830,Skull Lord legacy,15,undead,Medium,18,105,-,lawful evil,Legendary,14,16,17,16,15,21,-,-,-,-,-,-
+183,833,Slithering Tracker legacy,3,ooze,Medium,14,32,swim,chaotic evil,-,16,19,15,10,14,11,-,-,-,-,-,-
+184,836,Soul Monger legacy,11,humanoid (elf),Medium,15,123,-,neutral,-,8,17,14,19,15,13,-,7,-,-,7,5
+185,838,Spawn of Kyuss legacy,5,undead,Medium,10,76,-,chaotic evil,-,16,11,18,5,7,3,-,-,-,-,1,-
+186,852,Spirit Troll legacy,11,giant,Large,17,97,-,chaotic evil,-,1,17,13,8,9,16,-,-,-,-,-,-
+187,854,Spring Eladrin legacy,10,fey (elf),Medium,19,127,-,chaotic neutral,-,14,16,16,18,11,18,-,-,-,-,-,-
+188,858,Star Spawn Grue legacy,1/4,aberration,Small,11,17,-,neutral evil,-,6,13,10,9,11,6,-,-,-,-,-,-
+189,860,Star Spawn Hulk legacy,10,aberration,Large,16,136,-,chaotic evil,-,20,8,21,7,12,9,-,3,-,-,5,-
+190,862,Star Spawn Larva Mage legacy,16,aberration,Medium,16,168,-,chaotic evil,Legendary,17,12,23,18,12,16,-,6,-,-,6,8
+191,864,Star Spawn Mangler legacy,5,aberration,Medium,14,71,-,chaotic evil,-,8,18,12,11,12,7,-,7,4,-,-,-
+192,866,Star Spawn Seer legacy,13,aberration,Medium,17,153,-,neutral evil,-,14,12,18,22,19,16,-,6,-,11,9,8
+193,870,Steel Predator legacy,16,construct,Large,20,207,-,lawful evil,-,24,17,22,4,14,6,-,-,-,-,-,-
+194,872,Stench Kow legacy,1/4,beast,Large,10,15,-,unaligned,-,18,10,14,2,10,4,-,-,-,-,-,-
+195,875,Stone Cursed legacy,1,construct,Medium,17,19,-,lawful evil,-,16,5,14,5,8,7,-,-,-,-,-,-
+196,878,Stone Giant Dreamwalker legacy,10,giant (stone giant),Huge,18,161,-,chaotic neutral,-,23,14,21,10,8,12,-,6,9,-,3,-
+197,882,Storm Giant Quintessent legacy,16,giant (storm giant),Huge,12,230,"fly, swim",chaotic good,Legendary,29,14,20,17,20,19,14,-,10,-,10,9
+198,886,Summer Eladrin legacy,10,fey (elf),Medium,19,127,-,chaotic neutral,-,19,21,16,14,12,18,-,-,-,-,-,-
+199,889,Swarm of Cranium Rats legacy,5,swarm of tiny beasts,Medium,12,36,-,lawful evil,-,9,14,10,15,11,14,-,-,-,-,-,-
+200,896,Swarm of Rot Grubs legacy,1/2,swarm of tiny beasts,Medium,8,22,-,unaligned,-,2,7,10,1,2,1,-,-,-,-,-,-
+201,898,Swashbuckler legacy,3,humanoid (any race),Medium,17,66,-,any non-lawful alignment,-,12,18,12,14,11,15,-,-,-,-,-,-
+202,900,Sword Wraith Commander legacy,8,undead,Medium,18,127,-,lawful evil,-,18,14,18,11,12,14,-,-,-,-,-,-
+203,902,Sword Wraith Warrior legacy,3,undead,Medium,16,45,-,lawful evil,-,18,12,17,6,9,10,-,-,-,-,-,-
+204,906,Tanarukk legacy,5,"fiend (demon, orc)",Medium,14,95,-,chaotic evil,-,18,13,20,9,9,9,-,-,-,-,-,-
+205,908,The Angry legacy,13,monstrosity,Medium,18,255,-,neutral evil,-,17,10,19,8,13,6,-,-,-,-,-,-
+206,909,The Hungry legacy,11,monstrosity,Medium,17,225,-,neutral evil,-,19,10,17,6,11,6,-,-,-,-,-,-
+207,910,The Lonely legacy,9,monstrosity,Medium,16,112,-,neutral evil,-,16,12,17,6,11,6,-,-,-,-,-,-
+208,911,The Lost legacy,7,monstrosity,Medium,15,78,-,neutral evil,-,17,12,15,6,7,5,-,-,-,-,-,-
+209,912,The Wretched legacy,1/4,monstrosity,Small,15,10,-,neutral evil,-,7,12,9,5,6,5,-,-,-,-,-,-
+210,913,Thorny legacy,1,plant,Medium,14,27,-,neutral,-,13,12,13,2,10,6,-,-,-,-,-,-
+211,921,Titivilus legacy,16,fiend (devil),Medium,20,127,fly,lawful evil,Legendary,19,22,17,24,22,26,-,11,8,-,11,13
+212,923,Tlincalli legacy,5,monstrosity,Large,15,85,-,neutral evil,-,16,13,16,8,12,8,-,-,-,-,-,-
+213,926,Tortle legacy,1/4,humanoid (tortle),Medium,17,22,-,lawful good,-,15,10,12,11,13,12,-,-,-,-,-,-
+214,928,Tortle Druid legacy,2,humanoid (tortle),Medium,17,33,-,lawful neutral,-,14,10,12,11,15,12,-,-,-,-,-,-
+215,929,Transmuter legacy,5,humanoid (any race),Medium,12,40,-,any alignment,-,9,14,11,17,12,11,-,-,-,6,4,-
+216,932,Trapper legacy,3,monstrosity,Large,13,85,-,unaligned,-,17,10,17,2,13,4,-,-,-,-,-,-
+217,942,Ulitharid legacy,9,aberration,Large,15,127,-,lawful evil,-,15,12,15,21,19,21,-,-,-,9,8,9
+218,952,Vampiric Mist legacy,3,undead,Medium,13,30,fly,chaotic evil,-,6,16,16,6,12,7,-,-,-,-,3,-
+219,954,Vargouille legacy,1,fiend,Tiny,12,13,fly,chaotic evil,-,6,14,14,4,7,2,-,-,-,-,-,-
+220,956,Vegepygmy legacy,1/4,plant,Small,13,9,-,neutral,-,7,14,13,6,11,7,-,-,-,-,-,-
+221,958,Vegepygmy Chief legacy,2,plant,Small,14,33,-,neutral,-,14,14,14,7,12,9,-,-,-,-,-,-
+222,961,Velociraptor legacy,1/4,beast,Tiny,13,10,-,unaligned,-,6,14,13,4,12,6,-,-,-,-,-,-
+223,964,Venom Troll legacy,7,giant,Large,15,94,-,chaotic evil,-,18,13,20,7,9,7,-,-,-,-,-,-
+224,972,War priest legacy,9,humanoid (any race),Medium,18,117,-,any alignment,-,16,10,14,11,17,13,-,-,6,-,7,-
+225,976,Warlock of the Archfey legacy,4,humanoid (any race),Medium,11,49,-,any alignment,-,9,13,11,11,12,18,-,-,-,-,3,6
+226,978,Warlock of the Fiend legacy,7,humanoid (any race),Medium,12,78,-,any alignment,-,10,14,15,12,12,18,-,-,-,-,4,7
+227,980,Warlock of the Great Old One legacy,6,humanoid (any race),Medium,12,91,-,any alignment,-,9,14,15,12,12,18,-,-,-,-,4,7
+228,982,Warlord legacy,12,humanoid (any race),Medium,18,229,-,any alignment,Legendary,20,16,18,12,12,18,9,7,8,-,-,-
+229,990,Wastrilith legacy,13,fiend (demon),Large,18,157,swim,chaotic evil,-,19,18,21,19,12,14,9,-,10,-,-,-
+230,993,Water Elemental Myrmidon legacy,7,elemental,Medium,18,127,swim,neutral,-,18,14,15,8,10,10,-,-,-,-,-,-
+231,1003,White Abishai legacy,6,fiend (devil),Medium,15,68,fly,lawful evil,-,16,11,18,11,12,13,6,-,7,-,-,-
+232,1012,Winter Eladrin legacy,10,fey (elf),Medium,19,127,-,chaotic neutral,-,11,10,16,18,17,13,-,-,-,-,-,-
+233,1016,Wood Woad legacy,5,plant,Medium,18,75,-,lawful neutral,-,18,12,16,10,13,8,-,-,-,-,-,-
+234,1023,Xvart legacy,1/8,humanoid (xvart),Small,13,7,-,chaotic evil,-,8,14,10,8,7,7,-,-,-,-,-,-
+235,1025,Xvart Warlock of Raxivort legacy,1,humanoid (xvart),Small,12,22,-,chaotic evil,-,8,14,12,8,11,12,-,-,-,-,-,-
+236,1027,Yagnoloth legacy,11,fiend (yugoloth),Large,17,147,-,neutral evil,-,19,14,21,16,15,18,-,6,-,7,6,8
+237,1030,Yeenoghu legacy,24,fiend (demon),Huge,20,333,-,chaotic evil,Legendary,29,16,23,15,24,15,-,10,15,-,14,-
+238,1034,Yeth Hound legacy,4,fey,Large,14,51,fly,neutral evil,-,18,17,16,5,12,7,-,-,-,-,-,-
+239,1049,Young Kruthik legacy,1/8,monstrosity,Small,16,9,-,unaligned,-,13,16,13,4,10,6,-,-,-,-,-,-
+240,1060,Yuan-ti Anathema legacy,12,"monstrosity (shapechanger, yuan-ti)",Huge,16,189,swim,neutral evil,-,23,13,19,19,17,20,-,-,-,-,-,-
+241,1062,Yuan-ti Broodguard legacy,2,humanoid (yuan-ti),Medium,14,45,-,neutral evil,-,15,14,14,6,11,4,4,4,-,-,2,-
+242,1065,Yuan-ti Mind Whisperer legacy,4,"monstrosity (shapechanger, yuan-ti)",Medium,14,71,-,neutral evil,-,16,14,13,14,14,16,-,-,-,-,4,5
+243,1067,Yuan-ti Nightmare Speaker legacy,4,"monstrosity (shapechanger, yuan-ti)",Medium,14,71,-,neutral evil,-,16,14,13,14,12,16,-,-,-,-,3,5
+244,1069,Yuan-ti Pit Master legacy,5,"monstrosity (shapechanger, yuan-ti)",Medium,14,88,-,neutral evil,-,16,14,13,14,12,16,-,-,-,-,3,5
+245,1072,Zaratan legacy,22,elemental,Gargantuan,21,307,swim,neutral,Legendary,30,10,30,2,21,18,-,-,-,-,12,11Damagevulnerabilitiesthunder
+246,1074,Zariel legacy,26,fiend (devil),Large,21,580,fly,lawful evil,Legendary,27,24,28,26,27,30,-,-,-,16,16,18
+247,1077,Zuggtmoy legacy,23,fiend (demon),Large,18,304,-,chaotic evil,Legendary,22,15,18,20,19,24,-,9,11,-,11,-
